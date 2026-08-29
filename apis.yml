@@ -13,6 +13,9 @@ description: >-
   on it, including the former API documentation host, returns HTTP 410 Gone, so no public API surface
   remains to profile.
 url: https://raw.githubusercontent.com/api-evangelist/commonbond/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "As of this profile the commonbond.co domain is parked and every path on it, including the former API documentation host, returns HTTP 410 Gone, so no public API surface remains to profile."
 x-type: company
 x-source: harvest:secondary-market
 x-tier: stub
@@ -55,7 +58,7 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://forgeglobal.com/commonbond_stock/
+  url: https://commonbond.co
 x-enrichment:
   date: '2026-08-09'
   status: minimal
