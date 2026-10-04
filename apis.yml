@@ -35,7 +35,7 @@ created: '2026-08-09'
 modified: '2026-09-15'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Fintech
 - Lending
 - Student Loans
@@ -49,6 +49,7 @@ tags_raw:
 - Student Loans
 - Consumer Finance
 - Defunct
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
